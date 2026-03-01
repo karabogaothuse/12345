@@ -1,3 +1,5 @@
+body { background: red !important; }
+
 /* GLOBAL (whole website) */
 body {
   font-family: Arial, sans-serif;
